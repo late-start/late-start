@@ -20,8 +20,6 @@ The 98% of AI use cases that haven't been built yet aren't unbuilt because they'
 
 🏎️ **[RevMatch](https://revmatch.co)**. Manual sports cars with real mechanical feel are disappearing. RevMatch keeps them on the road. A 10-car enthusiast fleet (911s, Boxsters, Caymans, Quadrifoglios) bootstrapped to ~$150K ARR, powered by an end-to-end AI operations stack that runs on 0.2 FTE.
 
-🎸 **[The Shiny Black Holes](https://shinyblackholes.com)**. A semi-autobiographical collaboration between a human songwriter and a generative music model. Songs written across two decades, finally performed. It broke a 17-year creative block.
-
 🎓 **[Chalk](https://chalk.my)**. A shared AI-teacher workspace designed to alleviate cognitive load and support differentiated instruction. Currently in the research phase, observing elementary school teachers and understanding their challenges before building.
 
 ---
